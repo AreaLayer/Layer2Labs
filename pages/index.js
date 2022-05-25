@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Layer2Labs</title>
-        <meta name="description" content="Creating products and services on the of Bitcoin" />
+        <meta name="description" content="Creating products and services on the topo of Bitcoin" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -17,14 +17,14 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Prodicts{' '}
+          Products{' '}
           <code className={styles.code}></code>
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+      <a href="https://github.com/Layer2Labs/SecurityTokens"; "https://github.com/Layer2Labs/Jet-USDJJ"; " https://github.com/Layer2Labs/Index";  className={styles.card}>
             <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>Satablecoins, Security Tokens, Index tokens</p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
