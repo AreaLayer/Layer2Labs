@@ -22,7 +22,8 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-      <a href="https://github.com/Layer2Labs/SecurityTokens"; "https://github.com/Layer2Labs/Jet-USDJJ"; " https://github.com/Layer2Labs/Index";  className={styles.card}>
+      <a href="https://github.com/Layer2Labs/SecurityTokens"; "https://github.com/Layer2Labs/Jet-USDJJ"; " https://github.com/Layer2Labs/Index"
+           className={styles.card}>
             <h2>Documentation &rarr;</h2>
             <p>Satablecoins, Security Tokens, Index tokens</p>
           </a>
