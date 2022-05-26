@@ -87,10 +87,5 @@ export default function Home() {
 
         </div>
       </main>
-
-          </span>
-        </a>
-      </footer>
-    </div>
   )
 }
