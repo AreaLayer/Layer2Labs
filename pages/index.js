@@ -48,6 +48,15 @@ export default function Home() {
             <p>
               Next generation of DEX on Lightnig Network. </p>
           </a>
+
+          <a
+            href="https://github.com/Layer2Labs/P2PBTC"
+            className={styles.card}
+          >
+            <h2>P2P BTC &rarr;</h2>
+            <p>
+              Next generation of P2P marketplace on Ligtning Network. </p>
+          
         </div>
       </main>
 
