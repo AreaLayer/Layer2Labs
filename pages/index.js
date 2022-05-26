@@ -24,30 +24,29 @@ export default function Home() {
         <div className={styles.grid}>
       <a href="https://github.com/Layer2Labs/Jet-USDJJ" className={styles.card}>
             <h2>Stablecoin &rarr;</h2>
-            <p>Satablecoin</p>
+            <p>Decentralized stablecoin on Lightning Network</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
-            className={styles.card}
-          >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+          <a href="https://github.com/Layer2Labs/Index" className={styles.card}>
+            <h2>Index token;</h2>
+            <p>Product powered by Bitcoin and Ethereum (prices)</p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="https://github.com/Layer2Labs/SecurityTokens"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>Security Tokens &rarr;</h2>
+            <p>Tokens with focus in build new system financial on Bitcoin.</p>
+          </a>
+
+          <a
+            href="https://github.com/PorticoExchange"
+            className={styles.card}
+          >
+            <h2>Exchange Decentralized &rarr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
+              Next generation of DEX on Lightnig Network. </p>
           </a>
         </div>
       </main>
