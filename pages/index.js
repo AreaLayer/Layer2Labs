@@ -54,9 +54,9 @@ export default function Home() {
             className={styles.card}
           >
             <h2>P2P BTC &rarr;</h2>
-            <p>
-              Next generation of P2P marketplace on Ligtning Network. </p>
-          
+           <p>
+            Next generation of P2P marketplace on Ligtning Network. </p>
+          </a>
         </div>
       </main>
 
