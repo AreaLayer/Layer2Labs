@@ -28,7 +28,7 @@ export default function Home() {
           </a>
 
           <a href="https://github.com/Layer2Labs/Index" className={styles.card}>
-            <h2>Index token;</h2>
+            <h2>Index token &rarr;</h2>
             <p>Product powered by Bitcoin and Ethereum (prices)</p>
           </a>
 
