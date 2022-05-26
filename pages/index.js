@@ -57,6 +57,34 @@ export default function Home() {
            <p>
             Next generation of P2P marketplace on Ligtning Network. </p>
           </a>
+
+         <a
+            href="https://github.com/Layer2Labs/ArtByte"
+            className={styles.card}
+          >
+            <h2>Artbyte &rarr;</h2>
+           <p>
+            Next generation of Marketplace NFT on RSK Network. </p>
+          </a>
+
+          <a
+            href="https://github.com/Layer2Labs/LightningNameService"
+            className={styles.card}
+          >
+            <h2>Lightning Name Service &rarr;</h2>
+           <p>
+            Next generation of Lightning Address on Lightning Network. </p>
+          </a>
+
+           <a
+            href="https://github.com/Layer2Labs/CircleInterface"
+            className={styles.card}
+          >
+            <h2>Circle &rarr;</h2>
+           <p>
+            Next generation ofPublic repositories on Lightning Network</p>
+          </a>
+
         </div>
       </main>
 
