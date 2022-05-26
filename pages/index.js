@@ -7,13 +7,13 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Layer2Labs</title>
-        <meta name="description" content="Creating products and services on the top f Bitcoin" />
+        <meta name="description" content="Creating products and services on the top of Bitcoin" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="">Next.js!</a>
+          Welcome to <a href="">Layer2Labs!</a>
         </h1>
 
         <p className={styles.description}>
