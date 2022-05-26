@@ -82,10 +82,7 @@ export default function Home() {
           >
             <h2>Circle &rarr;</h2>
            <p>
-            Next generation ofPublic repositories on Lightning Network</p>
+            Next generation of Public repositories on Lightning Network</p>
           </a>
-
-        </div>
-      </main>
   )
 }
