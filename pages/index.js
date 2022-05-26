@@ -84,5 +84,7 @@ export default function Home() {
            <p>
             Next generation of Public repositories on Lightning Network</p>
           </a>
-  )
+        </div>
+
+  );
 }
